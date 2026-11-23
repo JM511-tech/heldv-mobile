@@ -1,5 +1,5 @@
 // Change ce numéro à chaque mise à jour de l'appli pour vider l'ancien cache.
-const CACHE = "heldv-mobile-v1";
+const CACHE = "heldv-mobile-v2";
 const FILES = ["./", "index.html", "manifest.webmanifest", "icon-192.png", "icon-512.png"];
 
 self.addEventListener("install", (e) => {
